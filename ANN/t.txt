@@ -1,1 +1,6 @@
 
+For these exercises we'll perform a binary classification on the Census Income dataset available from the UC Irvine Machine Learning Repository
+The goal is to determine if an individual earns more than $50K based on a set of continuous and categorical variables.
+
+IMPORTANT NOTE! Make sure you don't run the cells directly above the example output shown,
+otherwise you will end up writing over the example output!
